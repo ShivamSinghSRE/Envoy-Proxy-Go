@@ -199,10 +199,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-This all-in-one README provides a comprehensive guide for your project, including:
 
-1. Project overview and purpose
-2. Setup instructions
-3. Explanation of how the project works
-4. Full code examples for both the Go control plane server and the Envoy configuration
-5. Detailed contribution guidelines
